@@ -25,7 +25,7 @@ jobs:
             MOCHA_FILE: ~/test/results.xml
           when: always
       - store_test_results:
-          path: ~/test
+          path: /test
       - store_artifacts:
-          path: ~/test      
+          path: /test      
 
