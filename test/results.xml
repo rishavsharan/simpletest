@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="5.571999999999999" tests="50" failures="7">
+  <testsuite name="Root Suite" timestamp="2018-11-14T07:02:57" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Test Suite #0 &gt;&gt; " timestamp="2018-11-14T07:02:57" tests="10" file="C:\Users\risharan\Documents\Workspace\projects\simpletest\test\test.js" failures="4" time="1.129">
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #0 @Beta" time="0.131" classname="Test Case #0 @Beta">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #1 @Delta" time="0.112" classname="Test Case #1 @Delta">
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #2 @Gamma" time="0.11" classname="Test Case #2 @Gamma">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #3 @Gamma" time="0.12" classname="Test Case #3 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #4 @Delta" time="0.101" classname="Test Case #4 @Delta">
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #5 @Theta" time="0.109" classname="Test Case #5 @Theta">
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #6 @Delta" time="0.117" classname="Test Case #6 @Delta">
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #7 @Delta" time="0.12" classname="Test Case #7 @Delta">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #8 @Alpha" time="0.11" classname="Test Case #8 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #0 &gt;&gt;  Test Case #9 @Delta" time="0.099" classname="Test Case #9 @Delta">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Test Suite #1 &gt;&gt; " timestamp="2018-11-14T07:02:58" tests="10" file="C:\Users\risharan\Documents\Workspace\projects\simpletest\test\test.js" failures="1" time="1.1149999999999998">
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #0 @Alpha" time="0.118" classname="Test Case #0 @Alpha">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #1 @Delta" time="0.121" classname="Test Case #1 @Delta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #2 @Delta" time="0.101" classname="Test Case #2 @Delta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #3 @Theta" time="0.101" classname="Test Case #3 @Theta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #4 @Theta" time="0.103" classname="Test Case #4 @Theta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #5 @Delta" time="0.12" classname="Test Case #5 @Delta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #6 @Delta" time="0.102" classname="Test Case #6 @Delta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #7 @Gamma" time="0.117" classname="Test Case #7 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #8 @Theta" time="0.119" classname="Test Case #8 @Theta">
+    </testcase>
+    <testcase name="Test Suite #1 &gt;&gt;  Test Case #9 @Delta" time="0.113" classname="Test Case #9 @Delta">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test Suite #2 &gt;&gt; " timestamp="2018-11-14T07:03:00" tests="10" file="C:\Users\risharan\Documents\Workspace\projects\simpletest\test\test.js" failures="1" time="1.111">
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #0 @Delta" time="0.111" classname="Test Case #0 @Delta">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #1 @Delta" time="0.105" classname="Test Case #1 @Delta">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #2 @Beta" time="0.1" classname="Test Case #2 @Beta">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #3 @Alpha" time="0.121" classname="Test Case #3 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #4 @Delta" time="0.119" classname="Test Case #4 @Delta">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #5 @Alpha" time="0.118" classname="Test Case #5 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #6 @Gamma" time="0.108" classname="Test Case #6 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #7 @Alpha" time="0.11" classname="Test Case #7 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #8 @Beta" time="0.101" classname="Test Case #8 @Beta">
+    </testcase>
+    <testcase name="Test Suite #2 &gt;&gt;  Test Case #9 @Gamma" time="0.118" classname="Test Case #9 @Gamma">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test Suite #3 &gt;&gt; " timestamp="2018-11-14T07:03:01" tests="10" file="C:\Users\risharan\Documents\Workspace\projects\simpletest\test\test.js" failures="0" time="1.107">
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #0 @Theta" time="0.101" classname="Test Case #0 @Theta">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #1 @Alpha" time="0.101" classname="Test Case #1 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #2 @Gamma" time="0.107" classname="Test Case #2 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #3 @Delta" time="0.101" classname="Test Case #3 @Delta">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #4 @Delta" time="0.117" classname="Test Case #4 @Delta">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #5 @Beta" time="0.122" classname="Test Case #5 @Beta">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #6 @Alpha" time="0.117" classname="Test Case #6 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #7 @Gamma" time="0.12" classname="Test Case #7 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #8 @Theta" time="0.118" classname="Test Case #8 @Theta">
+    </testcase>
+    <testcase name="Test Suite #3 &gt;&gt;  Test Case #9 @Delta" time="0.103" classname="Test Case #9 @Delta">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test Suite #4 &gt;&gt; " timestamp="2018-11-14T07:03:02" tests="10" file="C:\Users\risharan\Documents\Workspace\projects\simpletest\test\test.js" failures="1" time="1.1099999999999999">
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #0 @Alpha" time="0.101" classname="Test Case #0 @Alpha">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #1 @Theta" time="0.103" classname="Test Case #1 @Theta">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #2 @Gamma" time="0.121" classname="Test Case #2 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #3 @Delta" time="0.109" classname="Test Case #3 @Delta">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #4 @Gamma" time="0.121" classname="Test Case #4 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #5 @Gamma" time="0.117" classname="Test Case #5 @Gamma">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #6 @Delta" time="0.12" classname="Test Case #6 @Delta">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #7 @Beta" time="0.109" classname="Test Case #7 @Beta">
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #8 @Alpha" time="0.1" classname="Test Case #8 @Alpha">
+      <failure message="The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+" type="AssertionError [ERR_ASSERTION]"><![CDATA[AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+  assert.ok(pass_percentage(pass))
+
+    at Context.it (test\test.js:22:24)]]></failure>
+    </testcase>
+    <testcase name="Test Suite #4 &gt;&gt;  Test Case #9 @Gamma" time="0.109" classname="Test Case #9 @Gamma">
+    </testcase>
+  </testsuite>
+</testsuites>
